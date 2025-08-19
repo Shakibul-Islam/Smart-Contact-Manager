@@ -42,7 +42,7 @@ Smart Contact Manager (SCM) is a modern web application built with Spring Boot, 
 ## Getting Started
 
 ### Prerequisites
-- Java 17 or higher
+- Java 21 or higher
 - Maven
 - PostgreSQL database
 
@@ -85,3 +85,5 @@ scm2.0/
 ## Contributors
 1. Abdur Rabbi Tota
 2. Md Sakibul Islam
+3. Obidul Islam
+4. Devjoti Das
