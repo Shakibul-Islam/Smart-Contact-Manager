@@ -4,9 +4,9 @@ let currentTheme = getTheme();
 let currentButtonColor = getButtonColor();
 console.log(currentTheme);
 //initial -->
-document.querySelector("html").classList.add("bg-light");
-document.querySelector("#theme_change_button").classList.add("btn-dark");
-document.querySelector("html").classList.
+// document.querySelector("html").classList.add("bg-light");
+// document.querySelector("#theme_change_button").classList.add("btn-dark");
+// document.querySelector("body").classList.add("bg-light");
 
 changeTheme(currentTheme, currentButtonColor);
 
